@@ -1,5 +1,5 @@
-# React Webpack Babel Enviroment
-Basic installation for React Web Project
+# React Webpack Babel Redux
+Basic installation for Redux Web Project
 
 # Prerequisites
 - NPM 6.7.0
